@@ -1,0 +1,1 @@
+export const CHECKTODOLIST = 'CHECKTODOLIST';
